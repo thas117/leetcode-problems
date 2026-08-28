@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/thas117/leetcode-problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/thas117/leetcode-problems/tree/master/0011-container-with-most-water) |
+| [0035-search-insert-position](https://github.com/thas117/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0324-wiggle-sort-ii](https://github.com/thas117/leetcode-problems/tree/master/0324-wiggle-sort-ii) |
 ## Divide and Conquer
 |  |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/thas117/leetcode-problems/tree/master/0001-two-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/thas117/leetcode-problems/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
