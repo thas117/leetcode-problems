@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/thas117/leetcode-problems/tree/master/0258-add-digits) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/thas117/leetcode-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
@@ -123,4 +124,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1668-maximum-repeating-substring](https://github.com/thas117/leetcode-problems/tree/master/1668-maximum-repeating-substring) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/thas117/leetcode-problems/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/thas117/leetcode-problems/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
