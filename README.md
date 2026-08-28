@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/thas117/leetcode-problems/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/thas117/leetcode-problems/tree/master/0051-n-queens) |
 | [0324-wiggle-sort-ii](https://github.com/thas117/leetcode-problems/tree/master/0324-wiggle-sort-ii) |
+| [0806-number-of-lines-to-write-string](https://github.com/thas117/leetcode-problems/tree/master/0806-number-of-lines-to-write-string) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/thas117/leetcode-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Divide and Conquer
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0806-number-of-lines-to-write-string](https://github.com/thas117/leetcode-problems/tree/master/0806-number-of-lines-to-write-string) |
 | [1044-longest-duplicate-substring](https://github.com/thas117/leetcode-problems/tree/master/1044-longest-duplicate-substring) |
 | [1668-maximum-repeating-substring](https://github.com/thas117/leetcode-problems/tree/master/1668-maximum-repeating-substring) |
 ## Sliding Window
