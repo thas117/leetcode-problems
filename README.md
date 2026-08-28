@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/thas117/leetcode-problems/tree/master/0090-subsets-ii) |
 | [0324-wiggle-sort-ii](https://github.com/thas117/leetcode-problems/tree/master/0324-wiggle-sort-ii) |
 | [0806-number-of-lines-to-write-string](https://github.com/thas117/leetcode-problems/tree/master/0806-number-of-lines-to-write-string) |
+| [1408-string-matching-in-an-array](https://github.com/thas117/leetcode-problems/tree/master/1408-string-matching-in-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/thas117/leetcode-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Divide and Conquer
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/thas117/leetcode-problems/tree/master/0806-number-of-lines-to-write-string) |
 | [1044-longest-duplicate-substring](https://github.com/thas117/leetcode-problems/tree/master/1044-longest-duplicate-substring) |
 | [1392-longest-happy-prefix](https://github.com/thas117/leetcode-problems/tree/master/1392-longest-happy-prefix) |
+| [1408-string-matching-in-an-array](https://github.com/thas117/leetcode-problems/tree/master/1408-string-matching-in-an-array) |
 | [1668-maximum-repeating-substring](https://github.com/thas117/leetcode-problems/tree/master/1668-maximum-repeating-substring) |
 ## Sliding Window
 |  |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/thas117/leetcode-problems/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/thas117/leetcode-problems/tree/master/0796-rotate-string) |
 | [1392-longest-happy-prefix](https://github.com/thas117/leetcode-problems/tree/master/1392-longest-happy-prefix) |
+| [1408-string-matching-in-an-array](https://github.com/thas117/leetcode-problems/tree/master/1408-string-matching-in-an-array) |
 | [1668-maximum-repeating-substring](https://github.com/thas117/leetcode-problems/tree/master/1668-maximum-repeating-substring) |
 ## Simulation
 |  |
