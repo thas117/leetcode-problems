@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/thas117/leetcode-problems/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/thas117/leetcode-problems/tree/master/0214-shortest-palindrome) |
 | [0344-reverse-string](https://github.com/thas117/leetcode-problems/tree/master/0344-reverse-string) |
 | [0459-repeated-substring-pattern](https://github.com/thas117/leetcode-problems/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/thas117/leetcode-problems/tree/master/0686-repeated-string-match) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/thas117/leetcode-problems/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/thas117/leetcode-problems/tree/master/0214-shortest-palindrome) |
 | [1044-longest-duplicate-substring](https://github.com/thas117/leetcode-problems/tree/master/1044-longest-duplicate-substring) |
 | [1392-longest-happy-prefix](https://github.com/thas117/leetcode-problems/tree/master/1392-longest-happy-prefix) |
 ## Suffix Array
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/thas117/leetcode-problems/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/thas117/leetcode-problems/tree/master/0214-shortest-palindrome) |
 | [1044-longest-duplicate-substring](https://github.com/thas117/leetcode-problems/tree/master/1044-longest-duplicate-substring) |
 | [1392-longest-happy-prefix](https://github.com/thas117/leetcode-problems/tree/master/1392-longest-happy-prefix) |
 ## Suffix Automaton
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/thas117/leetcode-problems/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/thas117/leetcode-problems/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/thas117/leetcode-problems/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/thas117/leetcode-problems/tree/master/0686-repeated-string-match) |
 | [1044-longest-duplicate-substring](https://github.com/thas117/leetcode-problems/tree/master/1044-longest-duplicate-substring) |
@@ -148,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/thas117/leetcode-problems/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/thas117/leetcode-problems/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/thas117/leetcode-problems/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/thas117/leetcode-problems/tree/master/0796-rotate-string) |
@@ -170,7 +175,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/thas117/leetcode-problems/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/thas117/leetcode-problems/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/thas117/leetcode-problems/tree/master/0686-repeated-string-match) |
 | [1392-longest-happy-prefix](https://github.com/thas117/leetcode-problems/tree/master/1392-longest-happy-prefix) |
+## Manacher
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/thas117/leetcode-problems/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
