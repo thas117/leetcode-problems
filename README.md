@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/thas117/leetcode-problems/tree/master/0001-two-sum) |
+| [0187-repeated-dna-sequences](https://github.com/thas117/leetcode-problems/tree/master/0187-repeated-dna-sequences) |
 ## Binary Search
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/thas117/leetcode-problems/tree/master/0187-repeated-dna-sequences) |
 | [0344-reverse-string](https://github.com/thas117/leetcode-problems/tree/master/0344-reverse-string) |
 | [0806-number-of-lines-to-write-string](https://github.com/thas117/leetcode-problems/tree/master/0806-number-of-lines-to-write-string) |
 | [1044-longest-duplicate-substring](https://github.com/thas117/leetcode-problems/tree/master/1044-longest-duplicate-substring) |
@@ -70,10 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/thas117/leetcode-problems/tree/master/0187-repeated-dna-sequences) |
 | [1044-longest-duplicate-substring](https://github.com/thas117/leetcode-problems/tree/master/1044-longest-duplicate-substring) |
 ## Rolling Hash
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/thas117/leetcode-problems/tree/master/0187-repeated-dna-sequences) |
 | [1044-longest-duplicate-substring](https://github.com/thas117/leetcode-problems/tree/master/1044-longest-duplicate-substring) |
 ## Suffix Array
 |  |
@@ -82,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/thas117/leetcode-problems/tree/master/0187-repeated-dna-sequences) |
 | [1044-longest-duplicate-substring](https://github.com/thas117/leetcode-problems/tree/master/1044-longest-duplicate-substring) |
 ## Suffix Automaton
 |  |
@@ -94,10 +99,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Z Algorithm
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/thas117/leetcode-problems/tree/master/0187-repeated-dna-sequences) |
 | [1044-longest-duplicate-substring](https://github.com/thas117/leetcode-problems/tree/master/1044-longest-duplicate-substring) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/thas117/leetcode-problems/tree/master/0187-repeated-dna-sequences) |
 | [1044-longest-duplicate-substring](https://github.com/thas117/leetcode-problems/tree/master/1044-longest-duplicate-substring) |
 ## Math
 |  |
@@ -111,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/thas117/leetcode-problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/thas117/leetcode-problems/tree/master/0090-subsets-ii) |
+| [0187-repeated-dna-sequences](https://github.com/thas117/leetcode-problems/tree/master/0187-repeated-dna-sequences) |
 | [0779-k-th-symbol-in-grammar](https://github.com/thas117/leetcode-problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/thas117/leetcode-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
