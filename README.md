@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/thas117/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/thas117/leetcode-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0143-reorder-list](https://github.com/thas117/leetcode-problems/tree/master/0143-reorder-list) |
 | [0344-reverse-string](https://github.com/thas117/leetcode-problems/tree/master/0344-reverse-string) |
 ## Hash Table
 |  |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/thas117/leetcode-problems/tree/master/0143-reorder-list) |
 | [0326-power-of-three](https://github.com/thas117/leetcode-problems/tree/master/0326-power-of-three) |
 | [0779-k-th-symbol-in-grammar](https://github.com/thas117/leetcode-problems/tree/master/0779-k-th-symbol-in-grammar) |
 ## Knuth–Morris–Pratt Algorithm
@@ -191,5 +193,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/thas117/leetcode-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0143-reorder-list](https://github.com/thas117/leetcode-problems/tree/master/0143-reorder-list) |
 | [0328-odd-even-linked-list](https://github.com/thas117/leetcode-problems/tree/master/0328-odd-even-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/thas117/leetcode-problems/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
