@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/thas117/leetcode-problems/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/thas117/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/thas117/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/thas117/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/thas117/leetcode-problems/tree/master/0046-permutations) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/thas117/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0324-wiggle-sort-ii](https://github.com/thas117/leetcode-problems/tree/master/0324-wiggle-sort-ii) |
 ## Greedy
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/thas117/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/thas117/leetcode-problems/tree/master/0035-search-insert-position) |
 | [1044-longest-duplicate-substring](https://github.com/thas117/leetcode-problems/tree/master/1044-longest-duplicate-substring) |
 ## Backtracking
