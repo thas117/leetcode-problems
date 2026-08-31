@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/thas117/leetcode-problems/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/thas117/leetcode-problems/tree/master/0076-minimum-window-substring) |
+| [0138-copy-list-with-random-pointer](https://github.com/thas117/leetcode-problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0187-repeated-dna-sequences](https://github.com/thas117/leetcode-problems/tree/master/0187-repeated-dna-sequences) |
 ## Binary Search
 |  |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/thas117/leetcode-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/thas117/leetcode-problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/thas117/leetcode-problems/tree/master/0143-reorder-list) |
 | [0328-odd-even-linked-list](https://github.com/thas117/leetcode-problems/tree/master/0328-odd-even-linked-list) |
 ## Stack
