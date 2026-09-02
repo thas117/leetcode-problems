@@ -210,10 +210,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/thas117/leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/thas117/leetcode-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/thas117/leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/thas117/leetcode-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/thas117/leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/thas117/leetcode-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Design
 |  |
 | ------- |
@@ -230,4 +233,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/thas117/leetcode-problems/tree/master/0146-lru-cache) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/thas117/leetcode-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/thas117/leetcode-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/thas117/leetcode-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
