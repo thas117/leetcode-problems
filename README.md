@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/thas117/leetcode-problems/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/thas117/leetcode-problems/tree/master/0146-lru-cache) |
 | [0328-odd-even-linked-list](https://github.com/thas117/leetcode-problems/tree/master/0328-odd-even-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/thas117/leetcode-problems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/thas117/leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/thas117/leetcode-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/thas117/leetcode-problems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/thas117/leetcode-problems/tree/master/0146-lru-cache) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/thas117/leetcode-problems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Binary Search Tree
 |  |
 | ------- |
