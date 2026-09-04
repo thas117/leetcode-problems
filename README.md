@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/thas117/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/thas117/leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0324-wiggle-sort-ii](https://github.com/thas117/leetcode-problems/tree/master/0324-wiggle-sort-ii) |
+| [0523-continuous-subarray-sum](https://github.com/thas117/leetcode-problems/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/thas117/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0806-number-of-lines-to-write-string](https://github.com/thas117/leetcode-problems/tree/master/0806-number-of-lines-to-write-string) |
 | [0904-fruit-into-baskets](https://github.com/thas117/leetcode-problems/tree/master/0904-fruit-into-baskets) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/thas117/leetcode-problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/thas117/leetcode-problems/tree/master/0146-lru-cache) |
 | [0187-repeated-dna-sequences](https://github.com/thas117/leetcode-problems/tree/master/0187-repeated-dna-sequences) |
+| [0523-continuous-subarray-sum](https://github.com/thas117/leetcode-problems/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/thas117/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/thas117/leetcode-problems/tree/master/0904-fruit-into-baskets) |
 ## Binary Search
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/thas117/leetcode-problems/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/thas117/leetcode-problems/tree/master/0326-power-of-three) |
+| [0523-continuous-subarray-sum](https://github.com/thas117/leetcode-problems/tree/master/0523-continuous-subarray-sum) |
 | [0779-k-th-symbol-in-grammar](https://github.com/thas117/leetcode-problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/thas117/leetcode-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
@@ -273,5 +276,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/thas117/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/thas117/leetcode-problems/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/thas117/leetcode-problems/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/thas117/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/thas117/leetcode-problems/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
