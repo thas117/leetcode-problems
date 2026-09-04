@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/thas117/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0324-wiggle-sort-ii](https://github.com/thas117/leetcode-problems/tree/master/0324-wiggle-sort-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thas117/leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0493-reverse-pairs](https://github.com/thas117/leetcode-problems/tree/master/0493-reverse-pairs) |
 | [0523-continuous-subarray-sum](https://github.com/thas117/leetcode-problems/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/thas117/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/thas117/leetcode-problems/tree/master/0645-set-mismatch) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/thas117/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/thas117/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0324-wiggle-sort-ii](https://github.com/thas117/leetcode-problems/tree/master/0324-wiggle-sort-ii) |
+| [0493-reverse-pairs](https://github.com/thas117/leetcode-problems/tree/master/0493-reverse-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/thas117/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/thas117/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/thas117/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [0493-reverse-pairs](https://github.com/thas117/leetcode-problems/tree/master/0493-reverse-pairs) |
 | [1044-longest-duplicate-substring](https://github.com/thas117/leetcode-problems/tree/master/1044-longest-duplicate-substring) |
 ## Backtracking
 |  |
@@ -326,4 +329,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/thas117/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/thas117/leetcode-problems/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/thas117/leetcode-problems/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/thas117/leetcode-problems/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/thas117/leetcode-problems/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/thas117/leetcode-problems/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
