@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/thas117/leetcode-problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/thas117/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/thas117/leetcode-problems/tree/master/0078-subsets) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/thas117/leetcode-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/thas117/leetcode-problems/tree/master/0090-subsets-ii) |
 | [0152-maximum-product-subarray](https://github.com/thas117/leetcode-problems/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/thas117/leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/thas117/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/thas117/leetcode-problems/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/thas117/leetcode-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/thas117/leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/thas117/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/thas117/leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
