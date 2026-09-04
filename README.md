@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/thas117/leetcode-problems/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/thas117/leetcode-problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/thas117/leetcode-problems/tree/master/0090-subsets-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/thas117/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0324-wiggle-sort-ii](https://github.com/thas117/leetcode-problems/tree/master/0324-wiggle-sort-ii) |
 | [0806-number-of-lines-to-write-string](https://github.com/thas117/leetcode-problems/tree/master/0806-number-of-lines-to-write-string) |
 | [1408-string-matching-in-an-array](https://github.com/thas117/leetcode-problems/tree/master/1408-string-matching-in-an-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/thas117/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/thas117/leetcode-problems/tree/master/0035-search-insert-position) |
+| [0209-minimum-size-subarray-sum](https://github.com/thas117/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [1044-longest-duplicate-substring](https://github.com/thas117/leetcode-problems/tree/master/1044-longest-duplicate-substring) |
 ## Backtracking
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/thas117/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/thas117/leetcode-problems/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/thas117/leetcode-problems/tree/master/0187-repeated-dna-sequences) |
+| [0209-minimum-size-subarray-sum](https://github.com/thas117/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [1044-longest-duplicate-substring](https://github.com/thas117/leetcode-problems/tree/master/1044-longest-duplicate-substring) |
 ## Rolling Hash
 |  |
@@ -259,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/thas117/leetcode-problems/tree/master/0042-trapping-rain-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/thas117/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
