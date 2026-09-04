@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/thas117/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/thas117/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/thas117/leetcode-problems/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/thas117/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/thas117/leetcode-problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/thas117/leetcode-problems/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/thas117/leetcode-problems/tree/master/0051-n-queens) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/thas117/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/thas117/leetcode-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/thas117/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/thas117/leetcode-problems/tree/master/0143-reorder-list) |
 | [0344-reverse-string](https://github.com/thas117/leetcode-problems/tree/master/0344-reverse-string) |
 ## Hash Table
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/thas117/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [1668-maximum-repeating-substring](https://github.com/thas117/leetcode-problems/tree/master/1668-maximum-repeating-substring) |
 ## String Matching
 |  |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/thas117/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/thas117/leetcode-problems/tree/master/0143-reorder-list) |
 ## Tree
 |  |
@@ -248,4 +252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/thas117/leetcode-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/thas117/leetcode-problems/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
