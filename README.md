@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/thas117/leetcode-problems/tree/master/0090-subsets-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/thas117/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/thas117/leetcode-problems/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/thas117/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0324-wiggle-sort-ii](https://github.com/thas117/leetcode-problems/tree/master/0324-wiggle-sort-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thas117/leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/thas117/leetcode-problems/tree/master/0523-continuous-subarray-sum) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/thas117/leetcode-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/thas117/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/thas117/leetcode-problems/tree/master/0143-reorder-list) |
+| [0287-find-the-duplicate-number](https://github.com/thas117/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/thas117/leetcode-problems/tree/master/0344-reverse-string) |
 ## Hash Table
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/thas117/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/thas117/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/thas117/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/thas117/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [1044-longest-duplicate-substring](https://github.com/thas117/leetcode-problems/tree/master/1044-longest-duplicate-substring) |
 ## Backtracking
 |  |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/thas117/leetcode-problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/thas117/leetcode-problems/tree/master/0090-subsets-ii) |
 | [0187-repeated-dna-sequences](https://github.com/thas117/leetcode-problems/tree/master/0187-repeated-dna-sequences) |
+| [0287-find-the-duplicate-number](https://github.com/thas117/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/thas117/leetcode-problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/thas117/leetcode-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
@@ -286,5 +290,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Pigeonhole Principle
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/thas117/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0523-continuous-subarray-sum](https://github.com/thas117/leetcode-problems/tree/master/0523-continuous-subarray-sum) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/thas117/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
