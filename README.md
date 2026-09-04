@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/thas117/leetcode-problems/tree/master/0645-set-mismatch) |
 | [0806-number-of-lines-to-write-string](https://github.com/thas117/leetcode-problems/tree/master/0806-number-of-lines-to-write-string) |
 | [0904-fruit-into-baskets](https://github.com/thas117/leetcode-problems/tree/master/0904-fruit-into-baskets) |
+| [0969-pancake-sorting](https://github.com/thas117/leetcode-problems/tree/master/0969-pancake-sorting) |
 | [1408-string-matching-in-an-array](https://github.com/thas117/leetcode-problems/tree/master/1408-string-matching-in-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/thas117/leetcode-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Divide and Conquer
@@ -40,12 +41,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/thas117/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0324-wiggle-sort-ii](https://github.com/thas117/leetcode-problems/tree/master/0324-wiggle-sort-ii) |
+| [0969-pancake-sorting](https://github.com/thas117/leetcode-problems/tree/master/0969-pancake-sorting) |
 ## Sorting
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/thas117/leetcode-problems/tree/master/0047-permutations-ii) |
 | [0324-wiggle-sort-ii](https://github.com/thas117/leetcode-problems/tree/master/0324-wiggle-sort-ii) |
 | [0645-set-mismatch](https://github.com/thas117/leetcode-problems/tree/master/0645-set-mismatch) |
+| [0969-pancake-sorting](https://github.com/thas117/leetcode-problems/tree/master/0969-pancake-sorting) |
 ## Quickselect
 |  |
 | ------- |
@@ -59,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/thas117/leetcode-problems/tree/master/0143-reorder-list) |
 | [0287-find-the-duplicate-number](https://github.com/thas117/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/thas117/leetcode-problems/tree/master/0344-reverse-string) |
+| [0969-pancake-sorting](https://github.com/thas117/leetcode-problems/tree/master/0969-pancake-sorting) |
 ## Hash Table
 |  |
 | ------- |
