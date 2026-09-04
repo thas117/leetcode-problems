@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thas117/leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/thas117/leetcode-problems/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/thas117/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/thas117/leetcode-problems/tree/master/0645-set-mismatch) |
 | [0806-number-of-lines-to-write-string](https://github.com/thas117/leetcode-problems/tree/master/0806-number-of-lines-to-write-string) |
 | [0904-fruit-into-baskets](https://github.com/thas117/leetcode-problems/tree/master/0904-fruit-into-baskets) |
 | [1408-string-matching-in-an-array](https://github.com/thas117/leetcode-problems/tree/master/1408-string-matching-in-an-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/thas117/leetcode-problems/tree/master/0047-permutations-ii) |
 | [0324-wiggle-sort-ii](https://github.com/thas117/leetcode-problems/tree/master/0324-wiggle-sort-ii) |
+| [0645-set-mismatch](https://github.com/thas117/leetcode-problems/tree/master/0645-set-mismatch) |
 ## Quickselect
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thas117/leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/thas117/leetcode-problems/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/thas117/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/thas117/leetcode-problems/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/thas117/leetcode-problems/tree/master/0904-fruit-into-baskets) |
 ## Binary Search
 |  |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/thas117/leetcode-problems/tree/master/0090-subsets-ii) |
 | [0187-repeated-dna-sequences](https://github.com/thas117/leetcode-problems/tree/master/0187-repeated-dna-sequences) |
 | [0287-find-the-duplicate-number](https://github.com/thas117/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/thas117/leetcode-problems/tree/master/0645-set-mismatch) |
 | [0779-k-th-symbol-in-grammar](https://github.com/thas117/leetcode-problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/thas117/leetcode-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
