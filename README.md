@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/thas117/leetcode-problems/tree/master/0324-wiggle-sort-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thas117/leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0493-reverse-pairs](https://github.com/thas117/leetcode-problems/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/thas117/leetcode-problems/tree/master/0494-target-sum) |
 | [0523-continuous-subarray-sum](https://github.com/thas117/leetcode-problems/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/thas117/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/thas117/leetcode-problems/tree/master/0645-set-mismatch) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/thas117/leetcode-problems/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/thas117/leetcode-problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/thas117/leetcode-problems/tree/master/0090-subsets-ii) |
+| [0494-target-sum](https://github.com/thas117/leetcode-problems/tree/master/0494-target-sum) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/thas117/leetcode-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Algorithm X
 |  |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/thas117/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/thas117/leetcode-problems/tree/master/0152-maximum-product-subarray) |
 | [0312-burst-balloons](https://github.com/thas117/leetcode-problems/tree/master/0312-burst-balloons) |
+| [0494-target-sum](https://github.com/thas117/leetcode-problems/tree/master/0494-target-sum) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/thas117/leetcode-problems/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1668-maximum-repeating-substring](https://github.com/thas117/leetcode-problems/tree/master/1668-maximum-repeating-substring) |
 ## String Matching
@@ -400,4 +403,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/thas117/leetcode-problems/tree/master/1039-minimum-score-triangulation-of-polygon) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/thas117/leetcode-problems/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/thas117/leetcode-problems/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
