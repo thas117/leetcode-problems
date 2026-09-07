@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/thas117/leetcode-problems/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/thas117/leetcode-problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/thas117/leetcode-problems/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/thas117/leetcode-problems/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/thas117/leetcode-problems/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/thas117/leetcode-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/thas117/leetcode-problems/tree/master/0090-subsets-ii) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/thas117/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/thas117/leetcode-problems/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/thas117/leetcode-problems/tree/master/0064-minimum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/thas117/leetcode-problems/tree/master/0152-maximum-product-subarray) |
 | [0312-burst-balloons](https://github.com/thas117/leetcode-problems/tree/master/0312-burst-balloons) |
 | [0416-partition-equal-subset-sum](https://github.com/thas117/leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/thas117/leetcode-problems/tree/master/0064-minimum-path-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/thas117/leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
 ## Counting Sort
 |  |
