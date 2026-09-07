@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/thas117/leetcode-problems/tree/master/0806-number-of-lines-to-write-string) |
 | [0904-fruit-into-baskets](https://github.com/thas117/leetcode-problems/tree/master/0904-fruit-into-baskets) |
 | [0969-pancake-sorting](https://github.com/thas117/leetcode-problems/tree/master/0969-pancake-sorting) |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/thas117/leetcode-problems/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1122-relative-sort-array](https://github.com/thas117/leetcode-problems/tree/master/1122-relative-sort-array) |
 | [1408-string-matching-in-an-array](https://github.com/thas117/leetcode-problems/tree/master/1408-string-matching-in-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/thas117/leetcode-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/thas117/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/thas117/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/thas117/leetcode-problems/tree/master/0152-maximum-product-subarray) |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/thas117/leetcode-problems/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1668-maximum-repeating-substring](https://github.com/thas117/leetcode-problems/tree/master/1668-maximum-repeating-substring) |
 ## String Matching
 |  |
@@ -388,4 +390,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/thas117/leetcode-problems/tree/master/1122-relative-sort-array) |
+## Triangulation
+|  |
+| ------- |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/thas117/leetcode-problems/tree/master/1039-minimum-score-triangulation-of-polygon) |
+## Polygons
+|  |
+| ------- |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/thas117/leetcode-problems/tree/master/1039-minimum-score-triangulation-of-polygon) |
 <!---LeetCode Topics End-->
