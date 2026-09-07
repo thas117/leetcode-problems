@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/thas117/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0072-edit-distance](https://github.com/thas117/leetcode-problems/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/thas117/leetcode-problems/tree/master/0076-minimum-window-substring) |
 | [0168-excel-sheet-column-title](https://github.com/thas117/leetcode-problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/thas117/leetcode-problems/tree/master/0171-excel-sheet-column-number) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/thas117/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/thas117/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/thas117/leetcode-problems/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/thas117/leetcode-problems/tree/master/0072-edit-distance) |
 | [0152-maximum-product-subarray](https://github.com/thas117/leetcode-problems/tree/master/0152-maximum-product-subarray) |
 | [0312-burst-balloons](https://github.com/thas117/leetcode-problems/tree/master/0312-burst-balloons) |
 | [0416-partition-equal-subset-sum](https://github.com/thas117/leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
