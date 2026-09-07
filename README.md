@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/thas117/leetcode-problems/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/thas117/leetcode-problems/tree/master/0214-shortest-palindrome) |
 | [0344-reverse-string](https://github.com/thas117/leetcode-problems/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/thas117/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/thas117/leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/thas117/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/thas117/leetcode-problems/tree/master/0459-repeated-substring-pattern) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/thas117/leetcode-problems/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/thas117/leetcode-problems/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/thas117/leetcode-problems/tree/master/0326-power-of-three) |
+| [0412-fizz-buzz](https://github.com/thas117/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0523-continuous-subarray-sum](https://github.com/thas117/leetcode-problems/tree/master/0523-continuous-subarray-sum) |
 | [0779-k-th-symbol-in-grammar](https://github.com/thas117/leetcode-problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/thas117/leetcode-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/thas117/leetcode-problems/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/thas117/leetcode-problems/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
 | ------- |
