@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/thas117/leetcode-problems/tree/master/0796-rotate-string) |
 | [0806-number-of-lines-to-write-string](https://github.com/thas117/leetcode-problems/tree/master/0806-number-of-lines-to-write-string) |
 | [1044-longest-duplicate-substring](https://github.com/thas117/leetcode-problems/tree/master/1044-longest-duplicate-substring) |
+| [1143-longest-common-subsequence](https://github.com/thas117/leetcode-problems/tree/master/1143-longest-common-subsequence) |
 | [1392-longest-happy-prefix](https://github.com/thas117/leetcode-problems/tree/master/1392-longest-happy-prefix) |
 | [1408-string-matching-in-an-array](https://github.com/thas117/leetcode-problems/tree/master/1408-string-matching-in-an-array) |
 | [1668-maximum-repeating-substring](https://github.com/thas117/leetcode-problems/tree/master/1668-maximum-repeating-substring) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/thas117/leetcode-problems/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/thas117/leetcode-problems/tree/master/0516-longest-palindromic-subsequence) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/thas117/leetcode-problems/tree/master/1039-minimum-score-triangulation-of-polygon) |
+| [1143-longest-common-subsequence](https://github.com/thas117/leetcode-problems/tree/master/1143-longest-common-subsequence) |
 | [1668-maximum-repeating-substring](https://github.com/thas117/leetcode-problems/tree/master/1668-maximum-repeating-substring) |
 ## String Matching
 |  |
@@ -422,4 +424,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/thas117/leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/thas117/leetcode-problems/tree/master/0494-target-sum) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/thas117/leetcode-problems/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
