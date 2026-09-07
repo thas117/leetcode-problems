@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/thas117/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0312-burst-balloons](https://github.com/thas117/leetcode-problems/tree/master/0312-burst-balloons) |
 | [0324-wiggle-sort-ii](https://github.com/thas117/leetcode-problems/tree/master/0324-wiggle-sort-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/thas117/leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thas117/leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0493-reverse-pairs](https://github.com/thas117/leetcode-problems/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/thas117/leetcode-problems/tree/master/0494-target-sum) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/thas117/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/thas117/leetcode-problems/tree/master/0152-maximum-product-subarray) |
 | [0312-burst-balloons](https://github.com/thas117/leetcode-problems/tree/master/0312-burst-balloons) |
+| [0416-partition-equal-subset-sum](https://github.com/thas117/leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/thas117/leetcode-problems/tree/master/0494-target-sum) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/thas117/leetcode-problems/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1668-maximum-repeating-substring](https://github.com/thas117/leetcode-problems/tree/master/1668-maximum-repeating-substring) |
@@ -406,9 +408,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/thas117/leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/thas117/leetcode-problems/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/thas117/leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/thas117/leetcode-problems/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
