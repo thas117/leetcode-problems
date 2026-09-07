@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/thas117/leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/thas117/leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/thas117/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/thas117/leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/thas117/leetcode-problems/tree/master/0312-burst-balloons) |
 | [0324-wiggle-sort-ii](https://github.com/thas117/leetcode-problems/tree/master/0324-wiggle-sort-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/thas117/leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/thas117/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/thas117/leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/thas117/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/thas117/leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0493-reverse-pairs](https://github.com/thas117/leetcode-problems/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/thas117/leetcode-problems/tree/master/0704-binary-search) |
 | [1044-longest-duplicate-substring](https://github.com/thas117/leetcode-problems/tree/master/1044-longest-duplicate-substring) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/thas117/leetcode-problems/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/thas117/leetcode-problems/tree/master/0072-edit-distance) |
 | [0152-maximum-product-subarray](https://github.com/thas117/leetcode-problems/tree/master/0152-maximum-product-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/thas117/leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/thas117/leetcode-problems/tree/master/0312-burst-balloons) |
 | [0416-partition-equal-subset-sum](https://github.com/thas117/leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/thas117/leetcode-problems/tree/master/0494-target-sum) |
@@ -428,4 +431,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/thas117/leetcode-problems/tree/master/1143-longest-common-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/thas117/leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
